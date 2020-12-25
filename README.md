@@ -51,3 +51,5 @@ AppleHDA Realtek Audio [Guide] | tonymacx86.com applealc-vit9696
 Quick Guide to Generate a SSDT for CPU Power Management | tonymacx86.com  
 Intel Framebuffer patching using WhateverGreen - Lilu and plugins - InsanelyMac Forum  
 An iDiot's Guide To Lilu and its Plug-ins | tonymacx86.com  
+
+连接地址：https://www.52pojie.cn/thread-1064220-1-1.html
